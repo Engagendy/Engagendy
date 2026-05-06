@@ -18,9 +18,20 @@ A native macOS app for viewing Microsoft Project (`.mpp`) files without Windows,
 
 - SwiftUI desktop application with Gantt, schedule, task, milestone, and resource views
 - Distributed through GitHub Releases and Homebrew
-- Latest public release: `v2.2.9`
+- Latest public release: `v2.2.16`
 
 Repository: <https://github.com/Engagendy/MPPViewerMacOS>
+
+### MClean for macOS
+
+A native macOS cleanup scanner for finding cache, temporary, duplicate, old, developer, and large-file cleanup candidates.
+
+- SwiftUI desktop utility with a native sidebar, dashboard, streamed scan results, and sortable findings
+- Safety-focused cleanup flow with never-delete rules, review-before-trash, details panel, and trash history
+- Distributed through GitHub Releases and Homebrew
+- Latest public release: `v1.0.1`
+
+Repository: <https://github.com/Engagendy/mclean>
 
 ### Engagendy.Magika.Native
 
