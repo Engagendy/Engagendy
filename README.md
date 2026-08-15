@@ -15,6 +15,8 @@ Based in the UAE, I work across project leadership, solution architecture, gover
 
 ### Aqari — UAE property management platform (Rakeen Software)
 
+[![Website](https://img.shields.io/badge/aqari.cloud-visit-2ea44f?logo=googlechrome&logoColor=white)](https://aqari.cloud)
+
 [Aqari](https://aqari.cloud) is a UAE-first property management platform for real estate teams, built for Arabic and English operations.
 
 - Ejari-ready bilingual tenancy contracts, leasing pipeline, and viewings
@@ -22,32 +24,34 @@ Based in the UAE, I work across project leadership, solution architecture, gover
 - VAT-compliant accounting, reconciliation, owner statements, and audit-ready reporting
 - Property, ownership, HR, maintenance, and approvals modules with granular permissions
 
-Website: <https://aqari.cloud>
+### <img src="https://raw.githubusercontent.com/Engagendy/MPPViewerMacOS/main/MPPViewer/MPPViewer/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="28" align="top" alt=""> Planroom (formerly MPP Viewer) — macOS
 
-### Planroom (formerly MPP Viewer) — macOS
+[![Mac App Store](https://img.shields.io/badge/Mac_App_Store-Download-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/ae/app/planroom/id6767653341)
+[![GitHub Release](https://img.shields.io/github/v/release/Engagendy/MPPViewerMacOS?label=GitHub%20Release&color=555)](https://github.com/Engagendy/MPPViewerMacOS/releases)
 
 A native macOS app for viewing Microsoft Project (`.mpp`) files without Windows, Microsoft Project, or subscriptions.
 
 - SwiftUI desktop application with Gantt, schedule, task, milestone, and resource views
 - Available on the Mac App Store, plus GitHub Releases and Homebrew
-- Latest public release: `v2.6.2`
 
-Mac App Store: <https://apps.apple.com/ae/app/planroom/id6767653341>
 Repository: <https://github.com/Engagendy/MPPViewerMacOS>
 
-### theMClean — macOS
+### <img src="https://raw.githubusercontent.com/Engagendy/mclean/main/MClean/MClean/Assets.xcassets/AppIcon.appiconset/icon-256.png" width="28" align="top" alt=""> theMClean — macOS
+
+[![Mac App Store](https://img.shields.io/badge/Mac_App_Store-Download-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/ae/app/themclean/id6767620941)
+[![GitHub Release](https://img.shields.io/github/v/release/Engagendy/mclean?label=GitHub%20Release&color=555)](https://github.com/Engagendy/mclean/releases)
 
 A native macOS cleanup scanner for finding cache, temporary, duplicate, old, developer, and large-file cleanup candidates.
 
 - SwiftUI desktop utility with a native sidebar, dashboard, streamed scan results, and sortable findings
 - Safety-focused cleanup flow with never-delete rules, review-before-trash, details panel, and trash history
 - Available on the Mac App Store, plus GitHub Releases and Homebrew
-- Latest public release: `v1.1.0`
 
-Mac App Store: <https://apps.apple.com/ae/app/themclean/id6767620941>
 Repository: <https://github.com/Engagendy/mclean>
 
-### theMClean Go — iOS / iPadOS
+### <img src="https://raw.githubusercontent.com/Engagendy/themclean-go/main/theMCleanGo/Resources/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="28" align="top" alt=""> theMClean Go — iOS / iPadOS
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/ae/app/themclean-go/id6767847000)
 
 The mobile companion to theMClean: a tablet-first file review workspace built with SwiftUI.
 
@@ -56,10 +60,9 @@ The mobile companion to theMClean: a tablet-first file review workspace built wi
 - Stage-before-delete flow with restore/remove actions
 - Respects platform sandboxing — no false claims of system-cache access
 
-App Store: <https://apps.apple.com/ae/app/themclean-go/id6767847000>
 Repository: <https://github.com/Engagendy/themclean-go>
 
-### HTML Serve — iPad
+### <img src="https://raw.githubusercontent.com/Engagendy/ipad-serve/main/iPadServe/Resources/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="28" align="top" alt=""> HTML Serve — iPad
 
 A native app for running static HTML projects fully on device, offline, without a desktop server.
 
@@ -69,7 +72,9 @@ A native app for running static HTML projects fully on device, offline, without 
 
 Repository: <https://github.com/Engagendy/ipad-serve>
 
-### A11y Lens — Chrome & Firefox extension
+### <img src="https://raw.githubusercontent.com/Engagendy/a11y-lens/main/icons/icon128.png" width="28" align="top" alt=""> A11y Lens — Chrome & Firefox extension
+
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/cccmjnbcpcphmijhfmpnnghbdjdjdkcg?label=Chrome%20Web%20Store&color=4285F4&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/a11y-lens/cccmjnbcpcphmijhfmpnnghbdjdjdkcg)
 
 An accessibility auditing DevTools extension powered by axe-core, with English and Arabic (RTL) UI.
 
@@ -78,16 +83,16 @@ An accessibility auditing DevTools extension powered by axe-core, with English a
 - JSON/CSV/HTML/PDF report exports and a Playwright-based CI companion
 - UAE Design System (AEGov DLS) conformance audit for federal-entity sites
 
-Chrome Web Store: <https://chromewebstore.google.com/detail/a11y-lens/cccmjnbcpcphmijhfmpnnghbdjdjdkcg>
 Repository: <https://github.com/Engagendy/a11y-lens>
 
 ### Engagendy.Magika.Native
+
+[![NuGet](https://img.shields.io/nuget/v/Engagendy.Magika.Native?label=NuGet&color=004880&logo=nuget)](https://www.nuget.org/packages/Engagendy.Magika.Native/)
 
 A thin Rust native shim and `.NET` wrapper around Magika for file-type detection from paths or in-memory bytes.
 
 - Published on NuGet for `.NET 9` and `.NET 10`
 - Includes native runtime assets for macOS, Linux, and Windows
-- Latest package version: `0.1.5`
 
 Package: <https://www.nuget.org/packages/Engagendy.Magika.Native/>
 Repository: <https://github.com/Engagendy/magika>
