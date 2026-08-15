@@ -13,9 +13,9 @@ Based in the UAE, I work across project leadership, solution architecture, gover
 
 ## Selected Work
 
-### Aqari — UAE property management SaaS
+### Aqari — UAE property management platform (Rakeen Software)
 
-Creator of [Aqari](https://aqari.cloud), a UAE-first property management platform for real estate teams, built for Arabic and English operations.
+[Aqari](https://aqari.cloud) is a UAE-first property management platform for real estate teams, built for Arabic and English operations.
 
 - Ejari-ready bilingual tenancy contracts, leasing pipeline, and viewings
 - PDC cheque management, collections, cash safe, and split settlements
