@@ -13,6 +13,17 @@ Based in the UAE, I work across project leadership, solution architecture, gover
 
 ## Selected Work
 
+### Aqari — UAE property management SaaS (closed source)
+
+Creator of [Aqari](https://aqari.cloud), a UAE-first property management platform for real estate teams, built for Arabic and English operations.
+
+- Ejari-ready bilingual tenancy contracts, leasing pipeline, and viewings
+- PDC cheque management, collections, cash safe, and split settlements
+- VAT-compliant accounting, reconciliation, owner statements, and audit-ready reporting
+- Property, ownership, HR, maintenance, and approvals modules with granular permissions
+
+Website: <https://aqari.cloud>
+
 ### Planroom (formerly MPP Viewer) — macOS
 
 A native macOS app for viewing Microsoft Project (`.mpp`) files without Windows, Microsoft Project, or subscriptions.
