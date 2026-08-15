@@ -7,31 +7,68 @@ Based in the UAE, I work across project leadership, solution architecture, gover
 ## Current Focus
 
 - Leading digital transformation and software projects in inspection and labour-related domains
-- Building pragmatic developer products and desktop tools
+- Shipping native Apple-platform apps (macOS, iOS, iPadOS) to the App Store
+- Building pragmatic developer products, desktop tools, and browser extensions
 - Designing systems that balance operational efficiency, governance, and maintainability
 
 ## Selected Work
 
-### MPP Viewer for macOS
+### Planroom (formerly MPP Viewer) — macOS
 
 A native macOS app for viewing Microsoft Project (`.mpp`) files without Windows, Microsoft Project, or subscriptions.
 
 - SwiftUI desktop application with Gantt, schedule, task, milestone, and resource views
-- Distributed through GitHub Releases and Homebrew
-- Latest public release: `v2.2.16`
+- Available on the Mac App Store, plus GitHub Releases and Homebrew
+- Latest public release: `v2.6.2`
 
+Mac App Store: <https://apps.apple.com/ae/app/planroom/id6767653341>
 Repository: <https://github.com/Engagendy/MPPViewerMacOS>
 
-### MClean for macOS
+### theMClean — macOS
 
 A native macOS cleanup scanner for finding cache, temporary, duplicate, old, developer, and large-file cleanup candidates.
 
 - SwiftUI desktop utility with a native sidebar, dashboard, streamed scan results, and sortable findings
 - Safety-focused cleanup flow with never-delete rules, review-before-trash, details panel, and trash history
-- Distributed through GitHub Releases and Homebrew
-- Latest public release: `v1.0.1`
+- Available on the Mac App Store, plus GitHub Releases and Homebrew
+- Latest public release: `v1.1.0`
 
+Mac App Store: <https://apps.apple.com/ae/app/themclean/id6767620941>
 Repository: <https://github.com/Engagendy/mclean>
+
+### theMClean Go — iOS / iPadOS
+
+The mobile companion to theMClean: a tablet-first file review workspace built with SwiftUI.
+
+- Review user-selected files and folders from the Files app, grouped by type, size, and risk
+- Photos library scan with guarded, system-confirmed deletion of staged items
+- Stage-before-delete flow with restore/remove actions
+- Respects platform sandboxing — no false claims of system-cache access
+
+App Store: <https://apps.apple.com/ae/app/themclean-go/id6767847000>
+Repository: <https://github.com/Engagendy/themclean-go>
+
+### HTML Serve — iPad
+
+A native app for running static HTML projects fully on device, offline, without a desktop server.
+
+- Imports whole folders from Files (copied in, or linked in place via security-scoped bookmarks)
+- Embedded HTTP server and `WKWebView` runtime with byte-range video support and Arabic filename handling
+- Favorites, deep links, Shortcuts action, and optional same-Wi-Fi classroom sharing with QR codes
+
+Repository: <https://github.com/Engagendy/ipad-serve>
+
+### A11y Lens — Chrome & Firefox extension
+
+An accessibility auditing DevTools extension powered by axe-core, with English and Arabic (RTL) UI.
+
+- One-click WCAG 2.0/2.1/2.2 scans with severity summaries, click-to-highlight, and fix suggestions
+- Guided manual test wizards, contrast checker, scan history with diffs and trend charts
+- JSON/CSV/HTML/PDF report exports and a Playwright-based CI companion
+- UAE Design System (AEGov DLS) conformance audit for federal-entity sites
+
+Chrome Web Store: <https://chromewebstore.google.com/detail/a11y-lens/cccmjnbcpcphmijhfmpnnghbdjdjdkcg>
+Repository: <https://github.com/Engagendy/a11y-lens>
 
 ### Engagendy.Magika.Native
 
@@ -63,7 +100,7 @@ Delivered and led systems for labour operations, inspection management, guidance
 
 ## Tech
 
-`C#` `ASP.NET Core` `Python` `PHP` `Java` `React` `Angular` `SQL Server` `Oracle` `MySQL` `MongoDB` `AWS` `Terraform` `CI/CD`
+`Swift` `SwiftUI` `C#` `ASP.NET Core` `Python` `PHP` `Java` `JavaScript` `React` `Angular` `SQL Server` `Oracle` `MySQL` `MongoDB` `AWS` `Terraform` `CI/CD`
 
 ## Connect
 
