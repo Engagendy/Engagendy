@@ -64,6 +64,8 @@ Repository: <https://github.com/Engagendy/themclean-go>
 
 ### <img src="https://raw.githubusercontent.com/Engagendy/ipad-serve/main/iPadServe/Resources/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="28" align="top" alt=""> HTML Serve — iPad
 
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/ae/app/html-serve/id6769023444)
+
 A native app for running static HTML projects fully on device, offline, without a desktop server.
 
 - Imports whole folders from Files (copied in, or linked in place via security-scoped bookmarks)
