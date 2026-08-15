@@ -13,7 +13,7 @@ Based in the UAE, I work across project leadership, solution architecture, gover
 
 ## Selected Work
 
-### Aqari — UAE property management SaaS (closed source)
+### Aqari — UAE property management SaaS
 
 Creator of [Aqari](https://aqari.cloud), a UAE-first property management platform for real estate teams, built for Arabic and English operations.
 
