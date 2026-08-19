@@ -74,7 +74,7 @@ A native app for running static HTML projects fully on device, offline, without 
 
 Repository: <https://github.com/Engagendy/ipad-serve>
 
-### <img src="https://raw.githubusercontent.com/Engagendy/a11y-lens/main/icons/icon128.png" width="28" align="top" alt=""> A11y Lens — Chrome & Firefox extension
+### <img src="https://raw.githubusercontent.com/Engagendy/a11y-lens/main/icons/icon128.png" width="28" align="top" alt=""> A11y Miyar (formerly A11y Lens) — Chrome & Firefox extension
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/cccmjnbcpcphmijhfmpnnghbdjdjdkcg?label=Chrome%20Web%20Store&color=4285F4&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/a11y-lens/cccmjnbcpcphmijhfmpnnghbdjdjdkcg)
 [![Firefox Add-ons](https://img.shields.io/amo/v/a11y-lens?label=Firefox%20Add--ons&color=FF7139&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/a11y-lens/)
