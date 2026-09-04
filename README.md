@@ -74,6 +74,22 @@ A native app for running static HTML projects fully on device, offline, without 
 
 Repository: <https://github.com/Engagendy/ipad-serve>
 
+### <img src="https://raw.githubusercontent.com/Engagendy/noor/main/App/Assets.xcassets/AppIcon.appiconset/icon-1024.png" width="28" align="top" alt=""> Noor Al Muslim — iOS / iPadOS / Android
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/ae/app/noor-al-muslim/id6807128479)
+[![Google Play](https://img.shields.io/badge/Google_Play-Closed_Testing-34A853?logo=googleplay&logoColor=white)](https://github.com/Engagendy/noor/tree/main/android)
+
+A free, offline-first Quran, prayer times, and athkar companion. No ads, no accounts, no tracking — free forever.
+
+- The full Madani mushaf, page by page (604 pages), with flowing, ayah-by-ayah, and word-by-word reading modes, tajweed guide, search, and khatmah planner
+- 31 reciters with word-by-word follow-along highlighting, continuous playback, repeat and memorization modes, and offline caching
+- Offline prayer times with adhan notifications, qibla compass, hijri calendar, sunnah fasting reminders, widgets, and Live Activities
+- Hisn al-Muslim, timed morning/evening/sleep athkar, tasbih counter, the 99 Names of Allah, and daily hadith
+- Quran text ships byte-for-byte from Tanzil and is checksum-verified at every launch
+- Native SwiftUI on Apple platforms, with a native Android app currently in closed testing on Google Play
+
+Repository: <https://github.com/Engagendy/noor>
+
 ### <img src="https://raw.githubusercontent.com/Engagendy/a11y-lens/main/icons/icon128.png" width="28" align="top" alt=""> A11y Miyar (formerly A11y Lens) — Chrome & Firefox extension
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/cccmjnbcpcphmijhfmpnnghbdjdjdkcg?label=Chrome%20Web%20Store&color=4285F4&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/a11y-lens/cccmjnbcpcphmijhfmpnnghbdjdjdkcg)
